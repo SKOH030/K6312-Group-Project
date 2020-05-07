@@ -1,6 +1,6 @@
 # K6312-Group-Project
 K6312 Information Mining &amp; Analysis Team 2 Group Project
-# Using Machine Learning Algorithm to Predict Cardiovascular Disease
+# Using ML Algorithm to Predict Cardiovascular Disease
 #### The aim of the prooject is to develop a program to predict Cardiovascular Disease through Machine Learning Algorithm
 ## Files uploaded to GitHub
 - CVD Prediction Program.ipny – code to obtain user health information and make prediction
